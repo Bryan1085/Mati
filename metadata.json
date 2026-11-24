@@ -1,0 +1,6 @@
+{
+  "name": "Super Sprunki Ritmo",
+  "description": "Minijuego 2D de plataformas clásicas estilo Super Mario Bros protagonizado por personajes Sprunki con niveles basados en ritmos musicales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
